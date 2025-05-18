@@ -18,7 +18,7 @@ Currently Volumes 1 and 2 are available, as well as a smaller document that prev
 
 Finally, these documents are extremely long and will take some time to read (several hours at least). If you prefer a visual breakdown of these quests then you can watch the following video by xLetalis who has worked extensively on this, big props to him. It covers Volume 1 at this time:
 
-[insert video link here]
+https://www.youtube.com/watch?v=3hASx-KWkqM
 
 Enjoy the documents!
 Glassfish, Ferroxius, Moonknight, Crygreg 
